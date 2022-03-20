@@ -3,4 +3,6 @@ test file
 
 modifying the p[revious filie
 
-adding another line
+adding another lines
+
+testing HEAD
